@@ -40,6 +40,6 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-        compile "com.android.support:support-core-utils:25.3.1"
+        compile "com.android.support:support-core-utils:27.1.1"
     }
 }
